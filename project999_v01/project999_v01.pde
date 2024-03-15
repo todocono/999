@@ -1,3 +1,15 @@
+/***********
+Project 999
+
+Original idea from TT
+Implementation by RC & MC
+Last update: 2024-03-15
+
+
+Update and run commands for RPI  git clone https://github.com/todocono/999
+/home/rpi/processing.-4.3/processing-java --sketch=/home/rpi/sketchbook/999/project999_v01 --run
+***********/
+
 int fontSize = 128;
 int indexMax = 100;
 
